@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117519441630",
+    "firebase_url": "https://iu-android-sdk.firebaseio.com",
+    "project_id": "iu-android-sdk",
+    "storage_bucket": "iu-android-sdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117519441630:android:7962cb3d01ff3cc2",
+        "android_client_info": {
+          "package_name": "com.iu.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117519441630-r3obaeqhgtf3g43j3qdhuqee1iv6pl3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuiuXvkX3hbXTZv1q1KUh3PbvvTT2tb04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+  ],
+  "configuration_version": "1"
+}
